@@ -1,1 +1,5 @@
+En esta carpeta se presentan los archivios JavaScript y HTML correspondientes al segundo entregable del curso de JavaScript de CoderHouse.
+
+El problema que sigo sin poder solucionar es que, al ser IngredienteFaltante() una función siempre que ingreso una respuesta ingreso a un nuevo ciclo y me va cambiando la respuesta que falta. 
+
 
