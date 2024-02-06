@@ -1,0 +1,54 @@
+[
+    {
+      "nombre": "Risotto",
+      "pais": "Italia",
+      "ingredientes": [
+        "Manteca",
+        "Queso",
+        "Cebolla",
+        "Vino blanco"
+      ],
+      "ingredienteFaltante": "Arroz",
+      "ingredientesRestantes": [
+        "Queso",
+        "Cebolla",
+        "Vino blanco"
+      ],
+      "Presentacion": "El Risotto tiene Queso, Cebolla, Vino blanco\n        ",
+      "puntaje": 0
+    },
+    {
+      "nombre": "Tortilla",
+      "pais": "España",
+      "ingredientes": [
+        "Cebolla",
+        "Papa",
+        "Chorizo"
+      ],
+      "ingredienteFaltante": "Huevos",
+      "ingredientesRestantes": [
+        "Papa",
+        "Chorizo"
+      ],
+      "Presentacion": "El Tortilla tiene Papa, Chorizo\n        ",
+      "puntaje": 0
+    },
+    {
+      "nombre": "Locro",
+      "pais": "Argentina",
+      "ingredientes": [
+        "Porotos",
+        "Zapallo",
+        "Chorizo",
+        "Carne"
+      ],
+      "ingredienteFaltante": "Maíz Blanco",
+      "ingredientesRestantes": [
+        "Zapallo",
+        "Chorizo",
+        "Carne"
+      ],
+      "Presentacion": "El Locro tiene Zapallo, Chorizo, Carne\n        ",
+      "puntaje": 0
+    }
+  ]
