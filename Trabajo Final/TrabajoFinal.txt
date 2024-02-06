@@ -1,1 +1,7 @@
-En esta carpeta se cargará el trabajo final del curso de JavaScript de CoderHouse
+En esta carpeta se encuentra cargado el trabajo final del curso de JavaScript de CoderHouse.
+
+Tuve problemas con dos cuestiones del curso. Una la incorporé pero no entendí bien si bien ni para qué esta, que es el Storage.
+La otra cuestión es la carga mediante APIS o archivos locales de JSON. Esto lo intenté un tiempo largo pero no lo pude resolver.
+Cargo los últimos intentos en una carpeta aparte por si lo pueden ver y mostrarme en qué estoy fallando (lo estoy abriendo con LiveServer). 
+
+A pesar de estas dos cuestiones el curso estuvo bueno y se aprendió mucho. Saludos
